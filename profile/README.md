@@ -6,4 +6,10 @@ O Bora Trocar é uma plataforma de troca de livros que esta em desenvolvimento, 
 
 Acesse nossas versões em desenvolvimento nestes links abaixo!
 
-[!["site"](./loginho.PNG)](https://boratrocar.company/anuncios)  &nbsp; &nbsp; &nbsp; &nbsp;   [!["aplicativo"](./loginho%20app.PNG)](https://expo.dev/artifacts/eas/j782fZiKukJNbgjgsKsF5D.apk)
+<a href="https://boratrocar.company/anuncios" target="_blank">
+  <img src="./loginho.PNG" alt="site">
+</a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://expo.dev/artifacts/eas/j782fZiKukJNbgjgsKsF5D.apk" target="_blank">
+  <img src="./loginho%20app.PNG" alt="aplicativo">
+</a>
